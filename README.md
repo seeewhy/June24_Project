@@ -9,3 +9,7 @@ git clone ----clones the repo on our local machine
 git add . adds your updates and saves it in a virtual storage
 git commit -m " added new files to existing readme"
 git push origin master
+
+Top Extensions
+
+Enable additional languages, themes, debuggers, commands, and more. VS Code's growing community shares their secret sauce to improve your workflow.
